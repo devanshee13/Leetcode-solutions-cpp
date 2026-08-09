@@ -31,6 +31,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0155-min-stack](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -51,9 +52,18 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
 | [1480-running-sum-of-1d-array](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
