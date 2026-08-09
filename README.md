@@ -48,4 +48,12 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0933-number-of-recent-calls) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
