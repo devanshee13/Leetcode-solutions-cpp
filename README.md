@@ -32,6 +32,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0225-implement-stack-using-queues](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -53,6 +54,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -66,6 +68,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
