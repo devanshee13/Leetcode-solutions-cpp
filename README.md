@@ -28,6 +28,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0232-implement-queue-using-stacks) |
@@ -53,6 +54,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0054-spiral-matrix) |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
@@ -68,6 +70,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
 ## Math
@@ -87,4 +90,12 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
