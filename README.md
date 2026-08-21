@@ -60,6 +60,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0455-assign-cookies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
@@ -111,6 +112,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0055-jump-game) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -118,6 +120,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0860-lemonade-change) |
 ## Sorting
