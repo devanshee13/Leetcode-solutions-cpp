@@ -71,6 +71,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0881-boats-to-save-people) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1480-running-sum-of-1d-array) |
@@ -114,6 +115,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,12 +135,18 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0135-candy](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0881-boats-to-save-people) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0455-assign-cookies) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
