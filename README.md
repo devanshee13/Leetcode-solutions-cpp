@@ -66,6 +66,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0084-largest-rectangle-in-histogram](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0135-candy) |
+| [0419-battleships-in-a-board](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
@@ -110,6 +111,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0054-spiral-matrix) |
+| [0419-battleships-in-a-board](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0419-battleships-in-a-board) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,4 +151,8 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0881-boats-to-save-people) |
+## Depth-First Search
+|  |
+| ------- |
+| [0419-battleships-in-a-board](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0419-battleships-in-a-board) |
 <!---LeetCode Topics End-->
