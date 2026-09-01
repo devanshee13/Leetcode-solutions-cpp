@@ -68,6 +68,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0135-candy](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0135-candy) |
 | [0419-battleships-in-a-board](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0724-find-pivot-index) |
@@ -107,6 +108,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | ------- |
 | [0054-spiral-matrix](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0495-teemo-attacking) |
 ## Matrix
 |  |
 | ------- |
