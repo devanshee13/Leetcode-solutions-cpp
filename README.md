@@ -35,6 +35,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0232-implement-queue-using-stacks](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
@@ -72,6 +73,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0881-boats-to-save-people) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -93,6 +95,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0084-largest-rectangle-in-histogram](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
