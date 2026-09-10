@@ -76,6 +76,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0739-daily-temperatures](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0881-boats-to-save-people) |
+| [0997-find-the-town-judge](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0997-find-the-town-judge) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1480-running-sum-of-1d-array) |
@@ -88,6 +89,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
+| [0997-find-the-town-judge](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0997-find-the-town-judge) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -160,4 +162,8 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0419-battleships-in-a-board) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
