@@ -166,4 +166,8 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0997-find-the-town-judge) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
