@@ -104,6 +104,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0412-fizz-buzz) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -170,4 +171,8 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0461-hamming-distance) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
