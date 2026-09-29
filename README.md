@@ -76,6 +76,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0739-daily-temperatures](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0881-boats-to-save-people) |
+| [0994-rotting-oranges](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0997-find-the-town-judge) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -120,6 +121,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | ------- |
 | [0054-spiral-matrix](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0054-spiral-matrix) |
 | [0419-battleships-in-a-board](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0419-battleships-in-a-board) |
+| [0994-rotting-oranges](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,4 +177,8 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
