@@ -23,7 +23,6 @@ public:
     vector<int> result;
     vector<int> postorder(Node* root) {
         post(root);
-        
         return result;
     }
     void post(Node* root) {
@@ -32,9 +31,7 @@ public:
         }
         for(auto x : root->children){
             post(x);
-            
         } 
         result.push_back(root->val);
     }
-
 };
