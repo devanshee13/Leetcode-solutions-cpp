@@ -36,6 +36,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0232-implement-queue-using-stacks](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0503-next-greater-element-ii) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -167,6 +168,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0419-battleships-in-a-board](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0419-battleships-in-a-board) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Graph Theory
 |  |
 | ------- |
@@ -187,6 +189,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/devanshee13/Leetcode-solutions-cpp-/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
